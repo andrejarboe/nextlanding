@@ -1,6 +1,13 @@
+---
+title: Favorite Songs
+slug: favorite-songs
+featured_image: favorite-songs.jpg
+date: 2021-01-20 12:22:33
+---
+
 # Favorite Songs
 
-This si a blog post about javscript framworks.
+This is a blog post about javascript frameworks.
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 

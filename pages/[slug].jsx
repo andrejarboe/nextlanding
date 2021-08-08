@@ -1,6 +1,9 @@
 import Head from "next/head";
 import Layout from "../components/layout";
 import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import marked from 'marked'
 
 export default function Index() {
     return (
@@ -43,9 +46,14 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({params: {slug}}) => {
+    const post = fs.readFileSync(path.join('post', `${slug}.md`)).toString();
+    const postData = matter(post);
+    const content = marked(postData.content)
+    console.log(content);
     return {
         props: {
-            slug
+            slug,
+            content
         }
     }
 }
