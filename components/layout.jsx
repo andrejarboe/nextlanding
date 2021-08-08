@@ -10,7 +10,7 @@ export default function Layout(props) {
 
             {/* Header */}
             <header id="header" className="alt">
-                <a href="index.html" className="logo">
+                <a href="/" className="logo">
                     <strong>Forty</strong> <span>by HTML5 UP</span>
                 </a>
                 <nav>

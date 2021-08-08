@@ -15,9 +15,9 @@ export default function Post({postData, content}) {
                 <section id="one">
                     <div className="inner">
                         <header className="major">
-                            <h1>Generic</h1>
+                            <h1>{postData.title}</h1>
                         </header>
-                        <span className="image main"><img src="./assets/images/pic11.jpg" alt="" /></span>
+                        <span className="image main"><img src={`./assets/images/${postData.featured_image}`} alt="" /></span>
                         <div dangerouslySetInnerHTML={{__html: content}} />
                     </div>
                 </section>
