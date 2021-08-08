@@ -4,6 +4,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import moment from "moment";
+import Link from "next/link"
 
 export default function Index({ post }) {
   return (
@@ -45,9 +46,9 @@ export default function Index({ post }) {
               </span>
               <header className="major">
                 <h3>
-                  <a href={`./${post.slug}`} className="link">
+                  <Link href={`./${post.slug}`} className="link">
                     {post.title}
-                  </a>
+                  </Link>
                 </h3>
                 {/* <p>Ipsum dolor sit amet</p> */}
               </header>
