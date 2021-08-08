@@ -2,7 +2,7 @@
 title: Top JavaScript Frameworks
 slug: top-javascript-frameworks
 featured_image: top-javascript-frameworks.jpg
-date: 2021-03-03 12:22:33
+date: '2021-03-03 12:22:33'
 ---
 
 # Top Javascript Frameworks

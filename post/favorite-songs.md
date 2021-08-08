@@ -2,7 +2,7 @@
 title: Favorite Songs
 slug: favorite-songs
 featured_image: favorite-songs.jpg
-date: 2021-01-20 12:22:33
+date: '2021-01-20 12:22:33'
 ---
 
 # Favorite Songs
