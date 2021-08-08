@@ -1,9 +1,10 @@
 ---
-title: Favorite Songs
-slug: favorite-songs
+title: Favorite Songs 2021
+slug: favorite-songs-2021
 featured_image: favorite-songs.jpg
-date: '2021-01-20 12:22:33'
+date: '2021-02-02 10:22:33'
 ---
+
 
 This is a blog post about javascript frameworks.
 

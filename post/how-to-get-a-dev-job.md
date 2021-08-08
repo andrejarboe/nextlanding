@@ -2,7 +2,7 @@
 title: How To Get A Dev Job
 slug: how-to-get-a-dev-job
 featured_image: how-to-get-a-dev-job.jpg
-date: '2021-05-029 12:22:33'
+date: "2021-05-29 12:22:33"
 ---
 
 This is a blog post about javascript frameworks.
